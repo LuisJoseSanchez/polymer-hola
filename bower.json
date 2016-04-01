@@ -1,0 +1,25 @@
+{
+  "name": "polymer-hola",
+  "homepage": "index.html",
+  "authors": [
+    "Luis José Sánchez <luisjoseprofe@gmail.com>"
+  ],
+  "description": "Un \"Hola mundo\" en Polymer",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "hola",
+    "mundo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
